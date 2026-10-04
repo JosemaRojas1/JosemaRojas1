@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Josema%20Rojas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IoT%20%26%20Reliability%20Engineer&descAlignY=60&descSize=22" alt="Josema Rojas banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Josema%20Rojas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IoT%20and%20Reliability%20Engineer&descAlignY=60&descSize=22" alt="Josema Rojas banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+condition-based+monitoring+systems;From+the+sensor+to+the+decision;Embedded+%E2%86%92+Data+%E2%86%92+ML+%E2%86%92+Web+platform;Clean%2C+tested%2C+documented+software" alt="Typing animation" />
