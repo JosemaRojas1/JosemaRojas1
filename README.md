@@ -38,15 +38,15 @@ I like problems where physics, data and software meet, and where "it works on my
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css,bash,powershell,postgres,sqlite,flask,fastapi,numpy,pandas,sklearn,docker,githubactions,aws,gcp,git,vscode,linux&perline=8" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,matlab,html,css,bash,powershell,postgres,sqlite,flask,fastapi,sklearn,docker,githubactions,aws,gcp,git,vscode,linux&perline=8" alt="Skills" />
 
 </div>
 
 <br/>
 
-| Area | What I use |
+| Area | What I am currently working with |
 |---|---|
-| **Languages** | **Python** (primary, incl. MicroPython and Jupyter) · **TypeScript** · JavaScript · **C / C++** · SQL and PL/pgSQL · HTML / CSS (Jinja templates) · Bash / PowerShell · Makefile · Dockerfile |
+| **Languages** | **Python** (primary, incl. MicroPython and Jupyter) · **TypeScript** · JavaScript · **C / C++** · MATLAB · SQL and PL/pgSQL · HTML / CSS (Jinja templates) · Bash / PowerShell · Makefile · Dockerfile |
 | **Embedded & IoT** | Microcontrollers (multi-core firmware) · PlatformIO · SPI / I²C · MQTT · filesystems on flash · binary data formats with integrity checks |
 | **Signal processing** | Spectral analysis · filtering · feature extraction · time-series · SciPy / NumPy · machine condition-monitoring standards (ISO 13373, 17359, 20816) |
 | **Machine learning** | scikit-learn · XGBoost · Autoencoders · Isolation Forest · feature engineering · anomaly detection · transfer-learning trade-offs |
