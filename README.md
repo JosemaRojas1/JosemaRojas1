@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Josema%20Rojas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IoT%20and%20Reliability%20Engineer&descAlignY=60&descSize=22" alt="Josema Rojas banner" />
+<img src="assets/banner.svg" alt="José Manuel Rojas — IoT and Reliability Engineer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+condition-based+monitoring+systems;From+the+sensor+to+the+decision;Embedded+%E2%86%92+Data+%E2%86%92+ML+%E2%86%92+Web+platform;Clean%2C+tested%2C+documented+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow&weight=500&size=24&pause=1200&color=6FA3BD&center=true&vCenter=true&width=640&lines=Building+condition-based+monitoring+systems;From+the+sensor+to+the+decision;Embedded+%E2%86%92+Data+%E2%86%92+ML+%E2%86%92+Web+platform;Clean%2C+tested%2C+documented+software" alt="Typing animation" />
 </a>
 
 <br/>
@@ -81,6 +81,6 @@ Condition monitoring · IoT data acquisition · feature engineering for machine 
 [![GitHub](https://img.shields.io/badge/GitHub-JosemaRojas1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosemaRojas1)
 [![Email](https://img.shields.io/badge/Email-rojaso.josema%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojaso.josema@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
